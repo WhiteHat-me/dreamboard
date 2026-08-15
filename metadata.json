@@ -1,0 +1,7 @@
+{
+  "name": "DreamBoard",
+  "description": "A high-performance Android keyboard purpose-built for coding with dedicated brackets, syntax shortcuts, real modifier keys (Ctrl, Tab, Esc), dark themes, and a compact <=48% screen height profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

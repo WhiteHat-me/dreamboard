@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DreamBoard</string>
+    <string name="ime_service_name">DreamBoard Coding Keyboard</string>
+    <string name="subtype_en">English (DreamBoard)</string>
+</resources>
+
